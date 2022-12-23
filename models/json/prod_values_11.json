@@ -1,0 +1,9070 @@
+{
+  "data": [
+    {
+      "timestamp ": 8,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 9,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 10,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 11,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 11,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 12,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 12,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 13,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 13,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 14,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 14,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 15,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 15,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 16,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 16,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 17,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 17,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 18,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 18,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 19,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 19,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 20,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 20,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 21,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 21,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 22,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 22,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 23,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 23,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 24,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 24,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 25,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 25,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 26,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 26,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 27,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 27,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 28,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 28,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 29,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 29,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 29,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 30,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 30,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 30,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 31,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 31,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 31,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 32,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 32,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 32,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 33,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 33,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 33,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 34,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 34,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 34,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 35,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 35,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 35,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 36,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 36,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 36,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 37,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 37,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 37,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 38,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 38,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 38,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 39,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 39,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 39,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 40,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 40,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 40,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 41,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 41,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 41,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 42,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 42,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 42,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 43,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 43,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 43,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 44,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 44,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 44,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 45,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 45,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 45,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 46,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 46,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 46,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 47,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 47,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 47,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 48,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 48,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 48,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 49,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 49,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 49,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 50,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 50,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 50,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 51,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 51,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 51,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 52,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 52,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 52,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 53,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 53,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 53,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 54,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 54,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 54,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 55,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 55,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 55,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 56,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 56,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 56,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 57,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 57,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 57,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 58,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 58,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 58,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 59,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 59,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 59,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 60,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 60,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 60,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 61,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 61,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 61,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 62,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 62,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 62,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 63,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 63,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 63,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 64,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 64,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 64,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 65,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 65,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 65,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 66,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 66,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 66,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 67,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 67,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 67,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 68,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 68,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 68,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 69,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 69,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 69,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 70,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 70,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 70,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 71,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 71,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 71,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 72,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 72,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 72,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 73,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 73,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 73,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 74,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 74,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 74,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 75,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 75,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 75,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 76,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 76,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 76,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 77,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 77,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 77,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 78,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 78,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 78,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 79,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 79,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 79,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 80,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 80,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 80,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 81,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 81,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 81,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 82,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 82,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 82,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 83,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 83,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 83,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 84,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 84,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 84,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 85,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 85,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 85,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 86,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 86,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 86,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 87,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 87,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 87,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 88,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 88,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 88,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 89,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 89,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 89,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 90,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 90,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 90,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 91,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 91,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 91,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 92,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 92,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 92,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 93,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 93,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 93,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 94,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 94,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 94,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 95,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 95,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 95,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 96,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 96,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 96,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 97,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 97,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 97,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 98,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 98,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 98,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 99,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 99,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 99,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 100,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 100,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 100,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 101,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 101,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 101,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 102,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 102,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 102,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 103,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 103,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 103,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 104,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 104,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 104,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 105,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 105,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 105,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 106,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 106,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 106,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 107,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 107,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 108,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 108,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 109,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 109,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 109,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 110,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 110,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 110,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 111,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 111,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 111,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 112,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 112,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 112,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 113,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 113,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 113,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 114,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 114,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 114,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 115,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 115,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 115,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 116,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 116,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 116,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 117,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 117,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 117,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 118,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 118,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 118,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 119,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 119,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 119,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 120,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 120,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 120,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 121,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 121,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 121,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 122,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 122,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 122,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 123,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 123,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 124,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 124,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 125,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 125,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 126,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 126,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 127,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 127,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 128,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 128,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 129,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 129,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 130,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 130,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 131,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 131,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 132,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 132,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 133,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 133,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 134,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 134,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 135,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 135,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 136,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 136,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 137,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 137,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 138,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 138,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 139,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 139,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 140,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 140,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 141,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 141,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 142,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 142,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 143,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 143,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 144,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 144,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 145,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 145,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 146,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 146,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 147,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 147,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 148,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 148,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 149,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 149,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 150,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 150,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 151,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 151,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 152,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 152,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 153,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 153,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 154,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 154,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 155,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 156,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 157,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 158,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 159,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 160,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 161,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 162,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 163,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 164,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 165,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 166,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 166,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 167,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 167,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 168,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 168,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 169,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 169,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 170,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 170,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 171,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 171,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 172,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 172,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 173,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 173,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 174,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 174,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 175,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 175,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 176,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 176,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 177,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 177,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 178,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 178,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 179,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 179,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 180,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 180,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 181,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 181,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 182,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 182,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 183,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 183,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 184,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 184,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 185,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 185,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 186,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 186,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 187,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 187,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 188,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 188,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 189,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 189,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 190,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 190,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 191,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 191,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 192,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 192,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 193,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 193,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 194,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 194,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 195,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 195,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 196,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 196,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 197,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 197,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 198,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 198,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 199,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 199,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 200,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 200,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 201,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 201,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 202,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 202,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 203,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 203,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 204,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 204,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 205,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 205,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 206,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 206,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 207,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 207,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 208,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 208,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 209,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 209,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 210,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 210,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 211,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 211,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 212,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 212,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 213,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 213,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 214,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 214,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 215,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 215,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 216,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 216,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 217,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 217,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 218,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 218,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 219,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 219,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 220,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 220,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 221,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 221,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 222,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 222,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 223,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 223,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 224,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 224,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 225,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 225,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 225,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 226,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 226,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 226,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 227,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 227,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 227,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 228,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 228,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 228,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 229,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 229,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 229,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 230,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 230,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 230,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 231,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 231,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 231,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 232,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 232,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 232,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 233,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 233,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 233,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 234,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 234,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 234,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 235,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 235,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 235,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 236,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 236,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 236,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 237,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 237,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 237,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 238,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 238,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 238,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 239,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 239,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 239,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 240,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 240,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 240,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 241,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 241,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 241,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 242,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 242,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 242,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 243,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 243,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 243,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 244,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 244,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 244,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 245,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 245,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 245,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 246,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 246,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 246,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 247,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 247,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 247,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 248,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 248,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 248,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 249,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 249,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 249,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 250,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 250,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 250,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 251,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 251,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 251,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 252,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 252,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 252,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 253,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 253,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 253,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 254,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 254,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 254,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 255,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 255,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 255,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 256,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 256,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 256,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 257,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 257,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 257,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 258,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 258,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 258,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 259,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 259,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 259,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 260,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 260,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 260,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 261,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 261,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 261,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 262,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 262,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 262,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 263,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 263,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 263,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 264,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 264,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 264,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 265,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 265,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 265,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 266,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 266,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 266,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 267,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 267,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 267,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 268,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 268,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 268,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 269,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 269,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 269,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 270,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 270,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 270,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 271,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 271,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 272,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 272,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 273,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 273,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 274,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 274,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 275,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 275,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 276,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 276,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 277,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 277,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 278,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 278,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 279,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 279,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 280,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 281,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 282,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 283,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 284,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 285,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 286,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 287,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 288,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 289,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 290,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 291,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 292,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 293,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 294,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 295,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 296,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 297,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 298,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 299,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 300,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 301,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 302,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 303,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 304,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 305,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 306,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 306,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 307,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 307,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 308,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 308,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 309,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 309,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 310,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 310,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 311,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 311,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 312,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 312,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 313,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 313,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 314,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 314,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 315,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 315,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 316,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 316,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 317,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 317,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 318,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 318,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 319,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 319,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 320,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 320,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 321,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 321,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 322,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 322,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 323,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 323,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 324,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 324,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 325,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 325,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 326,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 326,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 327,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 327,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 328,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 328,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 329,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 329,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 330,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 330,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 331,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 331,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 332,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 332,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 333,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 333,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 334,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 334,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 335,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 335,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 336,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 336,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 337,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 337,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 338,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 338,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 339,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 339,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 340,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 340,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 341,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 341,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 342,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 342,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 343,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 343,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 344,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 344,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 345,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 345,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 346,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 346,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 347,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 347,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 348,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 348,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 349,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 349,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 350,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 350,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 351,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 351,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 352,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 352,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 353,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 353,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 354,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 354,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 355,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 355,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 356,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 356,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 357,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 357,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 358,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 358,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 359,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 359,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 360,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 360,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 361,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 361,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 362,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 362,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 363,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 363,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 364,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 364,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 365,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 365,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 366,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 366,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 367,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 367,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 368,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 368,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 369,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 369,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 370,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 370,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 371,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 371,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 372,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 372,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 373,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 373,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 374,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 374,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 375,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 375,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 376,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 376,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 377,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 377,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 378,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 378,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 379,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 379,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 380,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 380,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 381,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 381,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 381,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 382,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 382,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 382,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 383,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 383,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 383,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 384,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 384,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 385,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 385,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 386,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 386,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 387,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 387,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 388,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 388,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 389,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 389,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 390,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 390,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 391,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 391,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 392,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 392,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 393,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 393,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 394,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 394,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 395,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 395,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 396,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 396,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 397,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 397,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 398,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 398,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 399,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 399,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 400,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 400,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 401,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 401,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 402,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 402,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 403,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 403,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 403,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 404,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 404,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 404,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 405,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 405,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 406,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 406,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 407,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 407,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 408,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 408,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 409,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 409,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 410,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 410,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 411,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 411,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 412,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 412,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 413,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 413,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 414,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 414,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 415,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 415,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 416,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 416,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 417,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 417,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 418,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 418,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 419,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 419,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 420,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 420,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 421,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 421,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 422,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 422,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 423,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 423,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 424,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 424,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 425,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 425,
+      "gaze ": 7,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 426,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 426,
+      "gaze ": 7,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 427,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 427,
+      "gaze ": 7,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 428,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 428,
+      "gaze ": 7,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 429,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 429,
+      "gaze ": 7,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 430,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 430,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 431,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 431,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 432,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 432,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 433,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 433,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 434,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 434,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 435,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 435,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 436,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 436,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 437,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 437,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 438,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 438,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 439,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 439,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 440,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 440,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 441,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 441,
+      "gaze ": 6,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 442,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 442,
+      "gaze ": 7,
+      "object ": 0,
+      "interaction": 2
+    },
+    {
+      "timestamp ": 443,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 444,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 445,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 445,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 446,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 446,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 447,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 447,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 448,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 448,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 449,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 449,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 450,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 450,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 451,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 451,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 452,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 452,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 453,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 453,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 454,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 454,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 455,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 455,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 456,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 456,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 457,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 457,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 458,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 458,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 459,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 459,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 460,
+      "gaze ": 6,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 460,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 461,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 461,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 462,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 462,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 463,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 463,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 464,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 464,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 465,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 465,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 466,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 466,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 467,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 467,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 468,
+      "gaze ": 7,
+      "object ": 1,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 468,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 469,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 470,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 471,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 472,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 473,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 474,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 475,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 476,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 477,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 478,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 479,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 480,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 481,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 482,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 483,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 484,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 485,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 486,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 487,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 488,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 489,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 490,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 491,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 492,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 493,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 494,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 495,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 496,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 497,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 498,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 499,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 500,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 501,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 502,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 503,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 504,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 505,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 506,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 507,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 508,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 509,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 509,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 510,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 510,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 511,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 511,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 512,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 512,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 513,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 513,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 514,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 514,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 515,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 515,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 516,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 516,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 517,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 517,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 518,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 518,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 519,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 519,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 520,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 520,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 521,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 521,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 522,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 522,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 523,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 523,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 524,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 524,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 525,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 526,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 527,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 528,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 529,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 530,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 531,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 532,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 533,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 534,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 535,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 536,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 537,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 538,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 539,
+      "gaze ": 1,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 540,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 541,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 542,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 543,
+      "gaze ": 2,
+      "object ": 1,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 764,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 765,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 766,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 767,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 768,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 769,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 770,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 770,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 771,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 771,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 772,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 772,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 773,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 773,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 774,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 774,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 775,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 775,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 776,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 776,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 777,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 777,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 778,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 778,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 779,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 779,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 780,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 780,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 781,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 781,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 782,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 782,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 783,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 783,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 784,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 784,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 785,
+      "gaze ": 5,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 785,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 786,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 786,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 787,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 787,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 788,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 788,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 789,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 789,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 790,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 790,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 791,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 791,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 792,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 792,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 793,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 793,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 794,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 794,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 795,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 795,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 796,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 796,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 797,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 797,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 798,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 798,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 799,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 799,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 800,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 800,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 801,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 801,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 801,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 802,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 802,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 802,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 803,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 803,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 803,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 804,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 804,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 804,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 805,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 805,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 805,
+      "gaze ": 4,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 806,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 806,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 806,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 807,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 807,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 807,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 808,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 808,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 808,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 809,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 809,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 809,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 810,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 810,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 810,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 811,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 811,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 811,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 812,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 812,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 812,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 813,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 813,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 813,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 814,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 814,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 814,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 815,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 815,
+      "gaze ": 5,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 815,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 816,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 816,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 816,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 817,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 817,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 817,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 818,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 818,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 818,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 819,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 819,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 819,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 820,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 820,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 820,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 821,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 821,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 821,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 822,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 822,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 822,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 823,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 823,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 823,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 824,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 824,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 824,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 825,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 825,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 825,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 826,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 826,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 826,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 827,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 827,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 827,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 828,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 828,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 828,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 829,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 829,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 829,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 830,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 830,
+      "gaze ": 4,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 830,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 831,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 831,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 831,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 832,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 832,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 832,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 833,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 833,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 833,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 834,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 834,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 834,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 835,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 835,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 835,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 836,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 836,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 837,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 837,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 838,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 838,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 839,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 839,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 840,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 840,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 841,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 841,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 842,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 842,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 843,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 843,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 844,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 844,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 845,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 845,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 846,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 846,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 847,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 847,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 848,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 848,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 849,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 849,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 850,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 850,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 851,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 851,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 852,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 852,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 853,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 853,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 854,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 854,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 855,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 855,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 856,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 856,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 857,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 857,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 858,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 858,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 859,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 859,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 860,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 860,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 861,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 861,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 862,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 862,
+      "gaze ": 3,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 863,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 863,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 864,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 864,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 865,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 865,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 866,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 866,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 867,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 867,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 868,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 868,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 869,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 869,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 870,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 870,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 871,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 871,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 872,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 872,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 873,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 873,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 874,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 874,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 875,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 875,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 876,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 876,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 877,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 877,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 878,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 878,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 879,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 879,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 880,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 880,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 881,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 881,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 882,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 882,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 883,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 883,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 884,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 884,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 885,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 885,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 886,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 886,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 887,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 887,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 888,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 888,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 889,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 889,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 890,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 890,
+      "gaze ": 0,
+      "object ": 1,
+      "interaction": 3
+    },
+    {
+      "timestamp ": 891,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 892,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 893,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 894,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 895,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 896,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 897,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 898,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 899,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 900,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 901,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 902,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 903,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 904,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 905,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 906,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 907,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 908,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 909,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 910,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 911,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 912,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 913,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 914,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 915,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 916,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 917,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 918,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 919,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 920,
+      "gaze ": 3,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 921,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 922,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 923,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 924,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 925,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 926,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 927,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 928,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 929,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 930,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 931,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 932,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 933,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 934,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 935,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 936,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 937,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 938,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 1
+    },
+    {
+      "timestamp ": 983,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 984,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 985,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 986,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 987,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 988,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 989,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 990,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 991,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 992,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 993,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 994,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 995,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 996,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 997,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 998,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 999,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1000,
+      "gaze ": 2,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1001,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1002,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1003,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1004,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1005,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1006,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1007,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1008,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1009,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1010,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1011,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1012,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1013,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1014,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1015,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1016,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1017,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1018,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1019,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1020,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1021,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1022,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1023,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1024,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1025,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1026,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1027,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1028,
+      "gaze ": 1,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1029,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1030,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1031,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1032,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1033,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1034,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1035,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1036,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1037,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1038,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1039,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1040,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1041,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1042,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1043,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1044,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1045,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1046,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1047,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    },
+    {
+      "timestamp ": 1048,
+      "gaze ": 0,
+      "object ": 0,
+      "interaction": 0
+    }
+  ]
+}
