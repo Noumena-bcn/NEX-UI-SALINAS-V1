@@ -1,0 +1,388 @@
+.ui {
+  /* font-family: "Poppins", sans-serif !important; */
+  font-family: "Roboto", sans-serif !important;
+}
+
+html,
+body {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -9999999;
+}
+
+.ui {
+  border-radius: 15px !important;
+}
+
+.ui.button {
+  border-radius: 30px !important;
+}
+
+#logo {
+  position: absolute;
+  margin: 30px;
+  bottom: 0;
+  right: 0;
+  height: auto;
+  text-align: right;
+
+  resize: horizontal;
+}
+
+#logo > img {
+  vertical-align: bottom !important;
+}
+
+.menu_wrapper {
+  height: 30px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+.popup.calendar {
+  transform: translateY(15px) !important;
+}
+
+.stats {
+  margin-bottom: 0;
+  bottom: 0;
+  position: absolute;
+  float: bottom;
+  vertical-align: text-bottom;
+  width: 100%;
+}
+
+.hor_cent {
+  text-align: center;
+  transform: translateX(330%) !important;
+}
+
+#canvas {
+  resize: both;
+  overflow: auto;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+.sub_menu {
+  width: auto !important;
+  padding-right: 0 !important;
+}
+
+.sub_menu > * > * {
+  margin-bottom: 10px !important;
+}
+
+.slide {
+  height: 80vh;
+  padding-bottom: 30px !important;
+}
+
+#r_chart {
+  pointer-events: none;
+}
+
+.page {
+  position: absolute;
+  width: 100%;
+  /* height: 80vh; */
+}
+
+.bar {
+  height: 5px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.line_bar {
+  transform: translateY(-100%);
+}
+
+#ui_wrapper {
+  position: relative;
+  pointer-events: none;
+  padding: 30px;
+  height: 100vh;
+  width: 100vw;
+}
+
+#ui_wrapper > * {
+  pointer-events: auto !important;
+}
+
+.ui_content {
+  width: 20%;
+  margin-top: 0;
+  margin-left: 0;
+}
+
+.segments {
+  background-color: white;
+}
+
+.expandable {
+  overflow: hidden;
+}
+
+.block {
+  display: block !important;
+  visibility: visible !important;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.invisible {
+  visibility: hidden !important;
+  display: none !important;
+}
+
+/* .dygraph-rangesel-fgcanvas,
+.dygraph-rangesel-zoomhandle {
+  visibility: hidden !important;
+} */
+
+.f-right {
+  float: right !important;
+  margin-top: 10px !important;
+}
+
+#flow {
+  position: absolute;
+  width: 100vw;
+  transform: translateY(20vh);
+}
+
+.visible {
+  visibility: visible !important;
+}
+
+.h_auto {
+  height: auto;
+}
+
+.ui_cards {
+  box-sizing: border-box;
+  height: 50vh;
+  overflow: scroll;
+  border-radius: 5px;
+}
+
+#t_chart {
+  border: solid 1px white;
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#r_chart {
+  border: solid 1px white;
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.blur_bk {
+  backdrop-filter: blur(5px);
+}
+
+.blur_bk_more.blur_out {
+  animation: blur-out 0.3s both;
+}
+
+.blur_bk_more.blur_in {
+  animation: blur-in 0.3s both;
+}
+
+@keyframes blur-in {
+  from {
+    backdrop-filter: blur(0px);
+  }
+  to {
+    backdrop-filter: blur(20px);
+  }
+}
+@keyframes blur-out {
+  from {
+    backdrop-filter: blur(20px);
+  }
+  to {
+    backdrop-filter: blur(0px);
+  }
+}
+
+.dygraph-label {
+  color: white;
+}
+
+.dygraph-ylabel {
+  margin-top: 10px;
+}
+
+.dygraph-axis-label {
+  color: rgb(128, 128, 128) !important;
+  font-size: 0.75em;
+}
+
+path {
+  stroke-dasharray: 10000;
+  stroke-dashoffset: 10000;
+  animation: dash 10s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.ui_buttons {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: 0;
+  margin: 30px;
+}
+
+.popup::before {
+  display: none;
+}
+
+.ui_slider {
+  position: relative;
+  margin: 0 10px;
+  height: 8px;
+  vertical-align: middle;
+}
+
+.noUi-handle {
+  height: 10px !important;
+  width: 10px !important;
+  top: -2px !important;
+  right: -5px !important; /* half the width */
+  border-radius: 100%;
+  background-color: black;
+}
+
+.noUi-handle::before,
+.noUi-handle::after {
+  display: none;
+}
+
+.noUi-connect {
+  background: lightgray !important;
+}
+
+.full_page {
+  position: absolute;
+  margin-top: -500vh;
+  margin-left: -500vw;
+  height: 2000vh;
+  width: 2000vw;
+  z-index: -9;
+}
+
+.z3 {
+  /* model canvas */
+  z-index: -999;
+}
+.z2 {
+  /* dygraph */
+  z-index: -99;
+  position: relative;
+  pointer-events: auto;
+}
+.z1 {
+  /* blur modal */
+  z-index: -9 !important;
+}
+
+.no_pt {
+  pointer-events: none !important;
+}
+
+.bw {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+.carousel_cell {
+  margin: 30px;
+  background-color: white;
+  height: 80vh;
+}
+
+.rounded {
+  border-radius: 30px;
+}
+
+.chart_wrap {
+  position: relative;
+  width: 30vw;
+  height: 30vh;
+}
+
+.show {
+  display: block;
+}
+
+.not_show {
+  display: none;
+}
+
+.gradient {
+  background: linear-gradient(to right, #313131, #39ff14) !important;
+  height: 11px;
+  width: 100%;
+}
+
+.ppup {
+  min-width: 300px !important;
+  float: right;
+}
+
+.t_chart {
+  height: 100px !important;
+  min-height: 100px;
+}
+
+.half_w {
+  width: 50%;
+}
+
+.lbl {
+  text-align: left !important;
+}
+
+.sublbl {
+  font-size: 0.75em !important;
+  text-align: left !important;
+  margin-bottom: -0.5em;
+}
+
+.r_spaced {
+  margin-right: 2em !important;
+}
+
+.l_a {
+  text-align: left !important;
+}
+
+.w {
+  color: white;
+}
+
+#heat_container {
+  display: hidden;
+}
