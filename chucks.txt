@@ -1,0 +1,79 @@
+<div class="ui segments horizontal">
+                <div class="ui segment ">
+                  <p>Female</p>
+                </div>
+                <div class="ui segment ">
+                  <i class="stop icon text-right"></i>
+                </div>
+              </div>
+
+
+
+    function onWindowResize() {
+  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();
+
+  renderer.setSize(window.innerWidth, window.innerHeight);
+}
+
+
+// function updateHeatMap() {
+//   let detections = grid_vals;
+//   detections = detections.slice(time_range[0], time_range[1]); // Slice with time range
+
+//   let geom = plane.geometry;
+
+//   let cells_id = [];
+//   for (const detection of detections) {
+//     cells_id.push(detection.id);
+//   }
+
+//   // Count occurencies per id
+//   let counts = [...Array(grid_arr.length)].map((x) => 0);
+//   for (const num of cells_id) {
+//     counts[num] = counts[num] + 1;
+//   }
+//   let cMax = Math.max(...Object.values(counts)) * 30; // Extract max occurencies for color gradient
+
+//   let vals = [];
+
+//   // const color = new THREE.Color();
+//   const colors = [];
+//   const count = geom.attributes.position.count;
+
+//   const gradient = new Gradient()
+//     .setColorGradient("#000000", "#39FF14")
+//     .setMidpoint(cMax);
+
+//   for (let index = 0; index < count; index++) {
+//     let sum = 0.1;
+//     let cellsIds = proxMap[index];
+//     for (let w = 0; w < cellsIds.length; w++) {
+//       sum = sum + counts[cellsIds[w]];
+//     }
+//     if (sum >= cMax) {
+//       sum = cMax;
+//     }
+
+//     let t_col = String(gradient.getColor(Number(sum))); // Extract color gradient
+//     let color = new THREE.Color(t_col);
+//     // color.setHSL(t, 1.0, 0.5);
+//     colors.push(color.r, color.g, color.b);
+//   }
+
+//   geom.setAttribute("color", new THREE.Float32BufferAttribute(colors, 3));
+
+//   const material = new THREE.MeshBasicMaterial({
+//     color: 0xffffff,
+//     vertexColors: true,
+//   });
+
+//   plane = new THREE.Mesh(geom, material);
+
+//   if (plane) {
+//     scene.remove(plane);
+//   }
+
+//   plane = new THREE.Mesh(geom, material);
+//   scene.add(plane);
+// }
